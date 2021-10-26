@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavgoel25&label=Profile%20views&color=0e75b6&style=flat" alt="raghavgoel25" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavgoel25&theme=radical" alt="raghavgoel25" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavgoel25&theme=radical" alt="raghavgoel25" /></a> </p>
 
 - 🌱 I’m currently learning **DjangoRestFramework,Android Development and JavaScript**
 
