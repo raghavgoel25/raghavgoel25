@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm</h1>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%235DF7EE&size=48&lines=Raghav+Goel)](https://git.io/typing-svg)
-
+<h1 align="center">Hi 👋, I'm Raghav Goel</h1>
 <h3 align="center">I'm a Sophomore at IIIT Allahabad who's fascinated about learning Dev</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavgoel25&label=Profile%20views&color=0e75b6&style=flat" alt="raghavgoel25" /> </p>
