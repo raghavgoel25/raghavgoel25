@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raghav Goel</h1>
+![Intro](./header.png)
 
 *** 
 
